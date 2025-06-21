@@ -7,15 +7,15 @@ let segundaCarta = "";
 botoaReiniciar.addEventListener("click", () => location.reload());
 
 let items = [
-  { nome: "ben10", imagem: "/img/ben10.jpg" },
-  { nome: "picapau", imagem: "/img/picapau.jpg" },
-  { nome: "johnnybravo", imagem: "/img/johnnybravo.jpg" },
-  { nome: "apenasumshow", imagem: "/img/apenasumshow.jpg" },
-  { nome: "jovenstitans", imagem: "/img/jovenstitans.jpg" },
-  { nome: "gumball", imagem: "/img/gumball.jpg" },
-  { nome: "clarencio", imagem: "/img/clarencio.jpg" },
-  { nome: "tomejerry", imagem: "/img/tom-e-jerry.jpg" },
-  { nome: "scoobydoo", imagem: "/img/scoobydoo.jpg" },
+  { nome: "ben10", imagem: "img/ben10.jpg" },
+  { nome: "picapau", imagem: "img/picapau.jpg" },
+  { nome: "johnnybravo", imagem: "img/johnnybravo.jpg" },
+  { nome: "apenasumshow", imagem: "img/apenasumshow.jpg" },
+  { nome: "jovenstitans", imagem: "img/jovenstitans.jpg" },
+  { nome: "gumball", imagem: "img/gumball.jpg" },
+  { nome: "clarencio", imagem: "img/clarencio.jpg" },
+  { nome: "tomejerry", imagem: "img/tom-e-jerry.jpg" },
+  { nome: "scoobydoo", imagem: "img/scoobydoo.jpg" },
 ];
 
 function criarCartas() {
